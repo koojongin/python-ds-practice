@@ -3,3 +3,4 @@ pip freeze > requirements.txt
 
 ## 새로운 개발환경에서 기존 설치했던 package 목록 불러오기
 pip install -r requirements.txt
+er
